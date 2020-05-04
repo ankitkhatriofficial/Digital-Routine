@@ -14,10 +14,10 @@ How to Run this Application on localhost (127.0.0.1) ???
    Eclipse and select Run as.
 8) Now, you will get a lot of options, there will be also two "Maven build" option.
 9) click on last "Maven build" and a pop-up will occur.
-10) Type "tomcat7:run:" in the Goals field and click on Run.
+10) Type "tomcat7:run" in the Goals field and click on Run.
 11) This will take a while since maven verifies and validates all the codes and build it.
 12) In the Console, you can see this "Running war on http://localhost:8080/" somewhere, that means your project is running on this url.
 13) In case, you get a different URL in the console, copy it and paste it in your browser.
-14) They you go, Digital Routine Web App is working fine...!
+14) There you go, Digital Routine Web App is working fine...!
 15) You can use Default username and password to login or can edit username or password in LoginUserValidationService.java file.
 
