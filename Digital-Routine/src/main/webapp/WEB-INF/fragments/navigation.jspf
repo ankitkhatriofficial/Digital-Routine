@@ -1,0 +1,15 @@
+<nav class="navbar navbar-default">
+
+		<a href="/" class="navbar-brand">Digital Routine</a>
+
+		<ul class="nav navbar-nav">
+			<li><a href="/login">Home</a></li>
+			<li class="active"><a href="/routines">Routines</a></li>
+			<li><a href="https://www.github.com/khatri09" target="_blank">Github
+					Codes</a></li>
+		</ul>
+
+		<ul class="nav navbar-nav navbar-right" style="margin-right: 10px;">
+			<li><a href="/logout">Logout</a></li>
+		</ul>
+</nav>
