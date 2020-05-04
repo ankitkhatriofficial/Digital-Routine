@@ -1,5 +1,5 @@
 # Digital-Routine
-This is a simple Web Application based on Model-2 Architecture of Java Web Development. It keeps records of your daily routine, you can customize it according to your routines.
+This is an Web Application based on Model-2 Architecture of Java Web Development. It keeps records of your daily routine, you can customize it according to your routines. Default username is KHATRI and password is 123456.
 
 How to Run this Application on localhost (127.0.0.1) ???
 
@@ -19,4 +19,5 @@ How to Run this Application on localhost (127.0.0.1) ???
 12) In the Console, you can see this "Running war on http://localhost:8080/" somewhere, that means your project is running on this url.
 13) In case, you get a different URL in the console, copy it and paste it in your browser.
 14) They you go, Digital Routine Web App is working fine...!
+15) You can use Default username and password to login or can edit username or password in LoginUserValidationService.java file.
 
